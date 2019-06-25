@@ -9,10 +9,12 @@
     "@sugo/mongodb": "^1.0.3",
     "@sugo/mongodb-queryparams": "^1.3.2",
     "@sugo/router": "^1.6.9",
-    "@sugo/server": "^3.0.1"
+    "@sugo/server": "^3.0.1",
+    "helmet": "^3.18.0"
   },
   "devDependencies": {
     "@types/dotenv": "^6.1.1",
+    "@types/helmet": "0.0.43",
     "@types/node": "^11.13.10",
     "dotenv": "^6.2.0",
     "prettier": "^1.17.0",
